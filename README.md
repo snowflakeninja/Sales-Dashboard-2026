@@ -71,8 +71,7 @@ Both datasets share the `customer_id` field, which can be used to connect custom
 These slicers allow users to filter the dashboard dynamically.
 
 ## 🖼️ Dashboard Preview
-
-![Sales Dashboard](screenshots/dashboard.png)
+![Sales Dashboard](screenshots/Sales%20Dashboard.png)
 
 ## 🔄 Project Workflow
 
