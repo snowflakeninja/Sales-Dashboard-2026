@@ -129,7 +129,7 @@ powerbi-sales-dashboard/
 
 ## 🙏 Acknowledgement
 
-This dashboard was developed as a guided learning project following **Data with Baraa**.
+This dashboard was developed as a guided learning project following **Data with Baraa's datasets**.
 
 The project helped strengthen my understanding of Power BI, data visualization, and interactive dashboard development.
 
