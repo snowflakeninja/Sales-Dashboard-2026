@@ -2,7 +2,7 @@
 
 # Sales Analysis Dashboard | Power BI
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an interactive Sales Analysis Dashboard created using Microsoft Power BI.
 
@@ -10,14 +10,14 @@ The dashboard provides insights into sales performance, product categories, cust
 
 This project was developed as part of hands-on Power BI learning, following a guided tutorial by **Data with Baraa**.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Power BI Desktop** – Dashboard development and visualization
 - **Power Query** – Data loading and preparation
 - **Data Modelling** – Working with related datasets
 - **CSV Files** – Data source
 
-## 📂 Dataset Description
+## Dataset Description
 
 The project uses two datasets:
 
@@ -45,7 +45,7 @@ Contains 12 customer records with the following columns:
 
 Both datasets share the `customer_id` field, which can be used to connect customer information with order transactions.
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ### 1. Sales by Product
 - Bar chart comparing sales across products.
@@ -70,10 +70,10 @@ Both datasets share the `customer_id` field, which can be used to connect custom
 
 These slicers allow users to filter the dashboard dynamically.
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 ![Sales Dashboard](screenshots/Sales%20Dashboard.png)
 
-## 🔄 Project Workflow
+## Project Workflow
 
 1. Imported CSV datasets into Power BI.
 2. Reviewed data types and available columns.
@@ -83,7 +83,7 @@ These slicers allow users to filter the dashboard dynamically.
 6. Implemented interactive slicers.
 7. Formatted and organized the dashboard.
 
-## 🎯 Skills Practiced
+## Skills Practiced
 
 - Data importing and preparation
 - Understanding structured datasets
@@ -94,7 +94,7 @@ These slicers allow users to filter the dashboard dynamically.
 - Slicers and filters
 - Business data analysis
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Create DAX measures for total sales, total orders, and unique customers.
 - Improve KPI calculations.
@@ -102,7 +102,7 @@ These slicers allow users to filter the dashboard dynamically.
 - Enhance dashboard formatting and usability.
 - Explore advanced Power BI features.
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 powerbi-sales-dashboard/
@@ -119,7 +119,7 @@ powerbi-sales-dashboard/
 └── README.md
 ```
 
-## 💻 How to Use
+## How to Use
 
 1. Download `sales_project.pbix`.
 2. Open it in Microsoft Power BI Desktop.
@@ -127,13 +127,13 @@ powerbi-sales-dashboard/
 4. If required, update the CSV file paths in Power BI.
 5. Refresh the data.
 
-## 🙏 Acknowledgement
+##  Acknowledgement
 
 This dashboard was developed as a guided learning project following **Data with Baraa's datasets**.
 
 The project helped strengthen my understanding of Power BI, data visualization, and interactive dashboard development.
 
-## 👩‍💻 Author
+##  Author
 
 **Ashmita Mishra**
 
