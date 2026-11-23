@@ -1,4 +1,4 @@
-# Sales-Dashboard-2026
+# Sales-Dashboard-2026 [For Learning]
 
 # Sales Analysis Dashboard | Power BI
 
