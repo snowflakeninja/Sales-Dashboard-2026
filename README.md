@@ -8,7 +8,7 @@ This project is an interactive Sales Analysis Dashboard created using Microsoft 
 
 The dashboard provides insights into sales performance, product categories, customer information, and sales trends through interactive visualizations.
 
-This project was developed as part of hands-on Power BI learning, following a guided tutorial by **Data with Baraa**.
+This project was developed as part of hands-on Power BI learning.
 
 ## Tools & Technologies
 
@@ -127,11 +127,7 @@ powerbi-sales-dashboard/
 4. If required, update the CSV file paths in Power BI.
 5. Refresh the data.
 
-##  Acknowledgement
-
-This dashboard was developed as a guided learning project following **Data with Baraa's datasets**.
-
-The project helped strengthen my understanding of Power BI, data visualization, and interactive dashboard development.
+This project helped strengthen my understanding of Power BI, data visualization, and interactive dashboard development.
 
 ##  Author
 
